@@ -11,7 +11,7 @@ body:
   - type: textarea
     id: newSuggestion
     attributes:
-      label: suggestion
+      label: Suggestion
       description: "Please feel free to give us any suggestion!"
       value: |
         -
