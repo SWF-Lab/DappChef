@@ -6,8 +6,8 @@ body:
       value: |
         Thanks for taking the time to start a new discussion and giving us suggestions!
         However, please follow the rules:
-        ❗️ If you have any ideas for the solution of the problem, please head to **New Idea** category. ❗️
-        ❗️ If you have any suggestion for us, please head to **Suggestion** category. ❗️
+        ❗️ If you have any question for solving the problem, please head to **Ask for Help** category. ❗️
+        ❗️ If you have any ideas for the solution of the problem, please head to **New Ideas** category. ❗️
   - type: textarea
     id: newSuggestion
     attributes:
