@@ -7,7 +7,7 @@ body:
         Thanks for taking the time to start a new discussion and providing new ideas for us!
         However, please follow the rules:
         ❗️ If you have any question for solving the problem, please head to **Ask for Help** category. ❗️
-        ❗️ If you have any suggestion for us, please head to **Suggestion** category. ❗️
+        ❗️ If you have any suggestion for us, please head to **Suggestions** category. ❗️
   - type: textarea
     id: newIdea
     attributes:
