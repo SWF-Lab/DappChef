@@ -9,7 +9,7 @@ body:
         However, please follow the rules:
         ❗️ Please DO NOT directly ask for any solutions. ❗️
         ❗️ If you have any ideas for the solution of the problem, please head to **New Ideas** category. ❗️
-        ❗️ If you have any suggestion for us, please head to **Suggestion** category. ❗️
+        ❗️ If you have any suggestion for us, please head to **Suggestions** category. ❗️
   - type: textarea
     id: newQuestion
     attributes:
