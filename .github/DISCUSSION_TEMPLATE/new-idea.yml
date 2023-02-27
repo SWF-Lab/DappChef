@@ -1,0 +1,24 @@
+title: "[Idea] "
+labels: ["General Idea"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to start a new discussion and providing new ideas for us!
+        However, please follow the rules:
+        ❗️ If you have any question for solving the problem, please head to **Ask for Help** category. ❗️
+        ❗️ If you have any suggestion for us, please head to **Suggestion** category. ❗️
+  - type: textarea
+    id: newIdea
+    attributes:
+      label: Idea
+      description: "Please provide your idea below, it's really important for all of us to improve!"
+      value: |
+        - Problem Number: ...
+        - Problem Statement and Targets: ...
+        
+        - Describe your suggestion or idea for the solution: ...
+        
+      render: bash
+    validations:
+      required: true
