@@ -1,0 +1,28 @@
+title: "[Question] "
+labels: ["General Question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to start a new discussion! 
+        Hope you can solve the problem and improve the skills by discussing with others!
+        However, please follow the rules:
+        ❗️ Please DO NOT directly ask for any solutions. ❗️
+        ❗️ If you have any ideas for the solution of the problem, please head to **New Ideas** category. ❗️
+        ❗️ If you have any suggestion for us, please head to **Suggestion** category. ❗️
+  - type: textarea
+    id: newQuestion
+    attributes:
+      label: Question
+      description: "If there's any trouble solving the problem, please feel free to ask!"
+      value: |
+        - Problem Number: ...
+        - Problem Statement and Targets: ...
+        
+        - Describe the bug or your question: ...
+        
+        - Paste your judging results: ...
+        
+      render: bash
+    validations:
+      required: true
