@@ -13,6 +13,7 @@
 	<a href="https://medium.com/swf-lab"><img src="http://img.shields.io/badge/-@swfLAB-_?label=Medium&style=social&logo=medium" alt="Medium"></a>
 </p>
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/b0bn2K0n97A/0.jpg)](https://www.youtube.com/watch?v=b0bn2K0n97A)
 
 - [Official Website](https://dappchef.com)
 - [Twitter](https://twitter.com/DappChef)
