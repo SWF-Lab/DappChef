@@ -16,7 +16,7 @@
 
 - [Official Website](https://dappchef.com)
 - [Twitter](https://twitter.com/DappChef)
-- [Opensea]()
+- [Opensea](https://testnets.opensea.io/collection/dappchef-badges)
 - [RewardNFT(StatusDB) Contract on Goerli](https://goerli.etherscan.io/address/0x7C26979dB762Ef90Cea0cB2931Fc22c1fe875b1F)
 - [Deployer(SubmitDB) Contract on Goerli](https://goerli.etherscan.io/address/0x70D71426fC44759f11a5Ffd5472459259267Ed83)
 - Check out the [Gitbook](https://chihaolu.gitbook.io/dappchef/) to overview the User Guide & White Paper.
